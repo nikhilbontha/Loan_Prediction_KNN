@@ -6,7 +6,7 @@ A simple and interactive **Machine Learning web application** built using **Stre
 
 ## 🚀 Live Demo
 
-
+https://loanpredictionknn-nikhilbontha.streamlit.app/
 
 ---
 
